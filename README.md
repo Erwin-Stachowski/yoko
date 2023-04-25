@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-
+To run it on your local host follow steps bellow :P 
 First, run the development server:
 
 ```bash
