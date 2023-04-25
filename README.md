@@ -1,4 +1,4 @@
-This is a project of my shop.
+#This is a project of my shop.
 
 ## Getting Started
 
